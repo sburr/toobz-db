@@ -14,7 +14,7 @@ this repo. The `dotenv` file, however, is included as an example that you can cu
 
 ## Schema
 
-The `toobz` database does not need to be populated or its schema crated--it just needs to exist. The `toobz-api` will take care of initializing everything, if necessary.
+The `toobz` database does not need to be populated or its schema created--it just needs to exist. The `toobz-api` will take care of initializing everything, if necessary.
 
 That being said, the schema looks like this:
 
